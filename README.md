@@ -1,5 +1,3 @@
-*/ ashg1910 */
-
 Wikipedia-Search-Engine
 ========================
 
@@ -50,3 +48,5 @@ This helper function does all the preprocessing. It acts as helper for search.py
 
 * fileHandler.py
 This function does all the file preprocessing. It acts as helper for wikiIndexer.py
+
+@ashg1910
